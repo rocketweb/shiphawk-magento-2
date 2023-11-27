@@ -1,6 +1,6 @@
 {
-    "name": "Shiphawk1/shipping",
-    "description": "Shiphawk1 Shipping",
+    "name": "shiphawk/shipping",
+    "description": "Shiphawk Shipping",
     "require": {
         "php": "~7.4.0||~8.1.0||~8.2.0",
         "magento/module-config": "100.0.*",
